@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/btn_shadow"></item>
+    <item android:drawable="@drawable/borrow_btn_bkground"
+        android:bottom="4dp"
+        android:right="4dp"/>
+</layer-list>

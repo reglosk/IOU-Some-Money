@@ -61,8 +61,7 @@
         android:layout_height="fill_parent"
         android:layout_weight="50"
         android:layout_marginTop="8dp"
-        android:background="@color/lightgrey"
-        android:elevation="2dp">
+        android:background="@color/lightgrey">
 
         <TextView
             android:layout_width="fill_parent"
